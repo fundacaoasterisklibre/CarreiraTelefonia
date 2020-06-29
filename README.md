@@ -1,5 +1,4 @@
-CarreiraTelefonia
-===========
+# Carreiras na Telefonia
 
 Sugestões de descrição de carreiras e cargos
   - [Estagiário](Programacao.md)
